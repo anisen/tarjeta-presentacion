@@ -1,0 +1,17 @@
+.logo{
+    
+}
+.triangulo{
+	border-bottom: 100px solid red;
+	border-left: 50px solid transparent;
+	
+	height: 0;
+	width: 100px;
+}
+.primera-parte{
+	border: 20px solid red;
+
+}
+.foto{
+	size: 40px;
+}
